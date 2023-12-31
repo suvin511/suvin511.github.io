@@ -9,3 +9,6 @@
 - Minecraft
 - Ski
 - 
+
+## Artifacts
+- [Camera](NKG/Klasse7/Kamera.html)
