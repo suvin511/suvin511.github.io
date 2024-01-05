@@ -1,3 +1,3 @@
-# Klass 7
+# Klasse 7
 
 Lehrerin: Frau Bucher
