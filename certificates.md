@@ -2,7 +2,7 @@
 
 ## Robotcup Rescue Maze Entry Urkunde 2024
 
-[image](assets/certificates/Rescue_Maze_Entry_Urkunde_2024.pdf)
+[image](assets/certificates/Rescue_Maze_Entry_Urkunde_2024.jpeg)
 
 ## Landeswettbewerb Mathematik Bayern 2023 2. Preis in der 1. Runde
 
