@@ -2,7 +2,7 @@
 
 ## Scan me!
 
-![QR Code für Suvin An](images/QR Code für Suvin An.png)
+[QR Code für Suvin An](images/QR Code für Suvin An.png)
 
 ## History
 
