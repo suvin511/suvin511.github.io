@@ -52,6 +52,10 @@ I made it with Gyuvin that we use variables to short the names of the sensors li
 
 My team was called Vins because I and my brother was the only members of the team and since my name is Suvin and his Gyuvin, we thought we take the "Vin" in our team name. And because there was 2 members, we changed it to "Vins".
 
+## Where I learned the programm NXC
 
+I learned NXC from a club for Advanced children that had done other programms like EV3 before. The club is called RoCCi and I went there every Tuesday. It took me 2 to 3 days to learn all the commands. The teachers there tell you how to do it if you ask them when you don't know something. They gave us (me and Gyuvin) a list of commands. It took us long until the programm worked because there were a lot of errors with the computer and the robot. After December there was an extra course for the other teams and my team to work on. We went on the extra course every Saturday and in the end we get to eat pizza. It was very tasty. 
+
+## The Rankings
 
 
