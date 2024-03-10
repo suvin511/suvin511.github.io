@@ -62,4 +62,4 @@ I learned NXC from a club for Advanced children that had done other programms li
 
 ## Team Picture at Robotcup
 
-![Robotcup_Team_Picture_2024](images/Robotcup_Team_Picture_2024.jpg)
+![Robotcup_Team_Picture_2024](images/Robotcup_Team_Picture_2024.jpeg)
