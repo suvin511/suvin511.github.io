@@ -40,8 +40,17 @@ The robot can be out of lego or with other kinds of materials. The robot must ha
 
 - 2 Motors: There are responsible for the robots to move.
 - 2 Ultrasonic Sensor: They are responsible for turning when they see the wall.
-- 
+- 1 Color Sensor: For detecting the red Victim and the black Hole.
 
+I recommend you to make it about like a cube shaped robot. It is pretty good if you make a sort of walls around your robot so that you make sure that it doesnt bump into any walls and it doesn't really get stuck. So the robot should have 2 Motors on the bottom. 1 Ultrasonic Sensor in the front and 1 on the side and the Color Sensor on the front bottom. 
+
+## Software of the robot
+
+I made it with Gyuvin that we use variables to short the names of the sensors like the Ultrasonic Sensors to Wallsensors and the Color Sensor to Groundsensor. With that we can organize the programm better. We used a new programm for the first time in a club, so a course. The programm we used was the NXC programm for the NXT robot. We made it that it turns until the Wallsensor see the distance of 20 mm after it sees the wall. How I had thought it didnt go so well. And with that we landed in 8th place and not 5th place of 11 teams. So I recommend that if you have a cubed shaped robot, you should better let it turn 90 degrees. It is sometimes better to have a compass sensor but it can get really complex. 
+
+## My Team
+
+My team was called Vins because I and my brother was the only members of the team and since my name is Suvin and his Gyuvin, we thought we take the "Vin" in our team name. And because there was 2 members, we changed it to "Vins".
 
 
 
