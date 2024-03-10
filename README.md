@@ -2,7 +2,7 @@
 
 ## Scan me!
 
-[QR Code Homepage Suvin](images/QR_Code_Homepage_Suvin.png)
+<img src="assets/images/QR_Code_Homepage_Suvin.png" width="200" height="200"></img>
 
 ## History
 
