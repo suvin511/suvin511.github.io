@@ -59,3 +59,7 @@ I learned NXC from a club for Advanced children that had done other programms li
 ## The Rankings
 
 ![Robocup_Rankings_2024](images/Robotcup_Rankings_2024.jpg)
+
+## Team Picture at Robotcup
+
+![Robocup_Rankings_2024](images/Robotcup_Rankings_2024.jpg)
