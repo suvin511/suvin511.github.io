@@ -20,8 +20,8 @@
 ## Studies
 
 - 2016-2018 IS Ulm (International School)   [Click to Link](https://www.is-ulm.de)
-- 2019-2021 Grundschule Weißenhorn Süd      [Click to Link](https://www.gs-sued-weissenhorn.de/)
-- 2022-now NKG Weißenhorn                   [Click to Link](https://nikolaus-kopernikus-gymnasium.de/nkgweb/)
+- 2019-2020 Grundschule Weißenhorn Süd      [Click to Link](https://www.gs-sued-weissenhorn.de/)
+- 2021-now NKG Weißenhorn                   [Click to Link](https://nikolaus-kopernikus-gymnasium.de/nkgweb/)
 
 ## Artifacts
 
