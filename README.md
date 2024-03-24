@@ -1,7 +1,5 @@
 # Welcome to Suvin's Homepage
 
-![Suvin_Photo](assets/images/Suvin_Photo.jpg)
-
 ## History
 
 ## My Family
