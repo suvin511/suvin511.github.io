@@ -25,7 +25,7 @@
 
 ## Artifacts
 
-- [Camera](NKG/Klasse7/Kamera.html) a team project with Daniel to make a HTML homepage about physics of *Camera*
+- [Camera](NKG/Klasse7/Kamera.html) a project to make a HTML homepage about physics of *Camera*
 
 - [RoboCup Junior 2024 Maze Entry](Rocci/Robocup2024.md) a team project with Gyuvin that makes LEGO Mindstorm robot
 
