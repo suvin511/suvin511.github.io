@@ -1,8 +1,6 @@
 # Welcome to Suvin's Homepage
 
-## Scan me!
-
-<img src="assets/images/QR_Code_Homepage_Suvin.png" width="200" height="200"></img>
+![Suvin_Photo](images/Suvin_Photo.jpeg)
 
 ## History
 
