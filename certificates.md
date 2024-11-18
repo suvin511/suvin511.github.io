@@ -3,7 +3,7 @@
 ## Nord-Oberschwäbische Jugend-Turnierserie (NOS JUTUS)
 
 ![image](assets/certificates/suvin_NosJutus_Urkunde.jpg)
-![image](assets/certificates/suvin_NosJutus.jpg)
+![image](assets/certificates/suvin_NosJutus.JPG)
 
 ## Mathematik Olympiade in Bayern (MOBY) 2024
 
