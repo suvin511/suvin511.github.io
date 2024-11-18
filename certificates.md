@@ -1,8 +1,12 @@
 # Certificates
 
+## Nord-Oberschwäbische Jugend-Turnierserie (NOS JUTUS)
+
+
+
 ## Mathematik Olympiade in Bayern (MOBY) 2024
 
-![image](assets/certificates/suvin_Urkunde_Olympiade.pdf)
+![image](assets/certificates/suvin_Urkunde_Olympiade.jpg)
 
 ## Robotcup Rescue Maze Entry Urkunde 2024
 
