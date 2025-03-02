@@ -62,3 +62,7 @@ I learned Arduino from a club for Expert children that had done other programms 
 ## Team Picture at Robotcup
 
 ![Robocup_Team_Picture_2025](images/Robocup_Team_Picture_2025.png)
+
+## Prizes 
+
+
