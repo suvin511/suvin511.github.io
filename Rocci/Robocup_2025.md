@@ -65,4 +65,5 @@ I learned Arduino from a club for Expert children that had done other programms 
 
 ## Prizes 
 
-
+![Robocup Siegesehrung 2025](images/Robocup_Siegesehrung_2025.png)
+![Robocup Trophie 2025](images/Robocup_Trophie_2025.jpg)
