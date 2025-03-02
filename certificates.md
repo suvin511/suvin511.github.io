@@ -2,8 +2,8 @@
 
 ## Robotcup 2025 
 
-![image](Robocup_Siegesehrung_2025.png)
-![image](Robocup_Trophie_2025.jpg) 
+![image](assets/certificates/Robocup_Siegesehrung_2025.png)
+![image](assets/certificates/Robocup_Trophie_2025.jpg) 
 
 ## Nord-Oberschwäbische Jugend-Turnierserie (NOS JUTUS)
 
