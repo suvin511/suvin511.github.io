@@ -13,7 +13,7 @@
 
 ## 64. Mathematik Olympiade in Bayern 2. Runde (MOBY) 2024
 
-![image](assets/certificates/64Mathematik.Olympiade.Deutschland.Urkunde.2025.Suvin.An.pdf)
+![image](assets/certificates/64Mathematik Olympiade Deutschland Urkunde 2025 Suvin An.pdf)
 
 ## 64. Mathematik Olympiade in Bayern 1. Runde (MOBY) 2024
 
