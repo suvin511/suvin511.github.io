@@ -1,5 +1,10 @@
 # Certificates
 
+## Robotcup 2025 
+
+![image](Robocup_Siegesehrung_2025.png)
+![image](Robocup_Trophie_2025.jpg) 
+
 ## Nord-Oberschwäbische Jugend-Turnierserie (NOS JUTUS)
 
 ![image](assets/certificates/suvin_NosJutus_Urkunde.jpg)
