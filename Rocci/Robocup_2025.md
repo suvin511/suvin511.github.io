@@ -1,6 +1,6 @@
 # Robocup 2025
 
-![Robocup Finale 2025](Robocup_Team_Picture.png)
+![Robocup Finale 2025](images/Robotcup_Team_Picture.png)
 
 We successfully participated in RoboCupJunior Vöhringen and qualified for the RoboCup German Open 2025 with a 2nd place finish.
 The event will take place at Messe Nürnberg from March 13 to March 16, 2025
@@ -63,4 +63,4 @@ I learned Arduino from a club for Expert children that had done other programms 
 
 ## Team Picture at Robotcup
 
-![Robotcup_Team_Picture_2025](images/Robotcup_Team_Picture_2025.png)
+![Robocup_Team_Picture_2025](images/Robocup_Team_Picture_2025.png)
