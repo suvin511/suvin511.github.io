@@ -31,7 +31,7 @@
 
 - [RoboCup Junior 2023 Rescue Line](https://www.youtube.com/shorts/g_vEH6Y_KHA) a team project with Gyuvin
 
-- [RoboCup Junior 2025 Maze Entry]([https://robocup.rocci.net/#header](https://github.com/suvin511/suvin511.github.io/blob/main/Rocci/Robocup_2025)) a team project with Gyuvin
+- [RoboCup Junior 2025 Maze Entry](https://github.com/suvin511/suvin511.github.io/blob/main/Rocci/Robocup_2025) a team project with Gyuvin
 
 ## Prizes, Certificates
 
