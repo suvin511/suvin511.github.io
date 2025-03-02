@@ -13,7 +13,7 @@
 
 ## 64. Mathematik Olympiade in Bayern 2. Runde (MOBY) 2024
 
-![image](assets/certificates/64.Mathematik_MOBI_2.Runde.jpg)
+![image](assets/certificates/64.Mathematik_MOBI_2.Runde.png)
 
 ## 64. Mathematik Olympiade in Bayern 1. Runde (MOBY) 2024
 
